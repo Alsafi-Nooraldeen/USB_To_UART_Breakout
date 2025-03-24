@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+D:\Altium Design Projects\CH340_USB_To_UART\Project Outputs for Free Documents\Pick Place\Pick Place for CH340_USB_To_UART.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/03/25
+Time:       00:41
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer    Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                    
+Y1         ABM3-12.000MHZ-D2Y-T TopLayer FP-ABM3-MFG              750.000       105.000       180      "Crystal 12MHz ±20ppm 18pF SMD-2 5mm x 3.2mm"                  
+U1         CH340T               TopLayer SSOP20W                  750.000       352.500       270      "Interface Development Tools USB - Serial Convert with CH340T" 
+P1         629004113921         TopLayer 629004113921             135.316       312.499       270      ""                                                             
+P2         61300511021          TopLayer 61300511021              1330.945      312.500       90       ""                                                             
+D6         UCLAMP3601P.TNT      TopLayer FP-SLP1006P2-MFG         1170.000      430.000       270      "TVS DIODE 33VWM 60VC SLP1006P2"                               
+D4         UCLAMP3601P.TNT      TopLayer FP-SLP1006P2-MFG         1140.000      330.000       270      "TVS DIODE 33VWM 60VC SLP1006P2"                               
+D3         UCLAMP3601P.TNT      TopLayer FP-SLP1006P2-MFG         300.000       345.058       270      "TVS DIODE 33VWM 60VC SLP1006P2"                               
+D2         UCLAMP3601P.TNT      TopLayer FP-SLP1006P2-MFG         300.000       280.066       90       "TVS DIODE 33VWM 60VC SLP1006P2"                               
+D1         UCLAMP3601P.TNT      TopLayer FP-SLP1006P2-MFG         300.000       157.972       90       "TVS DIODE 33VWM 60VC SLP1006P2"                               
+C6         C1005X7R1C104K050BC  TopLayer FP-C1005-050-0_05-MFG    1140.000      528.248       90       "Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0402"    
+C5         0402ZK220GBSTR..     TopLayer CAPC1006X50X20ML10T10    560.000       105.000       0        ""                                                             
+C4         0402ZK220GBSTR..     TopLayer CAPC1006X50X20ML10T10    935.000       105.000       180      ""                                                             
+C3         GRM155R71C104KA88D   TopLayer FP-GRM15-MFG             530.000       365.295       0        "CAP CER 0.1UF 16V X7R 0402"                                   
+C2         GRM155R71C104KA88D   TopLayer FP-GRM15-MFG             1040.000      457.815       270      "CAP CER 0.1UF 16V X7R 0402"                                   
+C1         CL05A226MQ5N6J8      TopLayer FP-CL05A226MQ5N6J8-IPC_C 965.000       456.971       90       "CAP CER 22UF 6.3V X5R 0402"                                   

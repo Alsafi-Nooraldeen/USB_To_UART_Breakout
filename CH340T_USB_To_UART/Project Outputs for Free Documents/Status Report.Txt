@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [CH340_USB_To_UART.PcbDoc]
+   Generated File[CH340_USB_To_UART.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:41:37 AM On 3/25/2025
