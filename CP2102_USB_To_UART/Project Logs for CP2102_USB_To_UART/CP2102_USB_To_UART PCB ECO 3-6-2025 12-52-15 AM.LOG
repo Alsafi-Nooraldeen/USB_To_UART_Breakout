@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBUS Pin=P2-1
+Removed Pin From Net: NetName=VDD Pin=P2-5
+Added Pin To Net: NetName=VDD Pin=P2-1
+Added Pin To Net: NetName=VBUS Pin=P2-5

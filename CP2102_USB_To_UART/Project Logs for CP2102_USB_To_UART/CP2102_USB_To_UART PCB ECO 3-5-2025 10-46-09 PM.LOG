@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P2 Old Footprint=61300511021 New Footprint=61300511021
+Change Component Footprint: Designator=P1 Old Footprint=629004113921 New Footprint=629004113921
+Add Differential Pair: Number of nets in differential pair DATA is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD3_2 is 1 instead of 2
