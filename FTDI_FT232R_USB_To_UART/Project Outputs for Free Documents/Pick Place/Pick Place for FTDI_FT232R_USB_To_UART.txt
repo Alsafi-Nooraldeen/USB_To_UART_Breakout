@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+D:\Altium Design Projects\FTDI_FT232R_USB_To_UART\Project Outputs for Free Documents\Pick Place\Pick Place for FTDI_FT232R_USB_To_UART.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/03/25
+Time:       22:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                               
+R1         CRG0402F10K         TopLayer FP-CRG0402-IPC_B      566.880       538.000       0        "RES SMD 10K OHM 1% 1/16W 0402"                                                           
+C2         C1005X7R1C104K050BC TopLayer FP-C1005-050-0_05-MFG 634.842       93.000        270      "Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0402"                               
+U1         FT232RL-REEL        TopLayer FP-SSOP-28-MFG        750.000       312.500       270      "IC USB FS SERIAL UART 28-SSOP"                                                           
+P2         87224-3             TopLayer FP-87224-3-MFG        1068.000      65.000        180      "CONN HEADER VERT 3POS 2.54MM"                                                            
+P3         61300511021         TopLayer 61300511021           1330.945      312.500       90       ""                                                                                        
+P1         629004113921        TopLayer 629004113921          136.260       312.499       270      ""                                                                                        
+D3         UCLAMP3601P.TNT     TopLayer FP-SLP1006P2-MFG      285.000       345.602       270      "TVS DIODE 33VWM 60VC SLP1006P2"                                                          
+D2         UCLAMP3601P.TNT     TopLayer FP-SLP1006P2-MFG      285.000       279.397       90       "TVS DIODE 33VWM 60VC SLP1006P2"                                                          
+D1         UCLAMP3601P.TNT     TopLayer FP-SLP1006P2-MFG      355.000       191.436       270      "TVS DIODE 33VWM 60VC SLP1006P2"                                                          
+D5         UCLAMP3601P.TNT     TopLayer FP-SLP1006P2-MFG      1055.000      395.768       90       "TVS DIODE 33VWM 60VC SLP1006P2"                                                          
+D4         UCLAMP3601P.TNT     TopLayer FP-SLP1006P2-MFG      1120.000      295.768       90       "TVS DIODE 33VWM 60VC SLP1006P2"                                                          
+C4         GRM155R61A475MEAAD  TopLayer FP-GRM155-0_15-MFG    711.614       90.047        270      "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4.7uF, X5R, 15%, 20%, 10V" 
+C3         C1005X7R1C104K050BC TopLayer FP-C1005-050-0_05-MFG 790.000       108.748       0        "Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0402"                               
+C1         CC0402KPX7R7BB103   TopLayer FP-CC0402-MFG         285.000       155.019       270      "CC0402 10 nF X7R 10.00% 16 V"                                                            
+C5         C1005X7R1C104K050BC TopLayer FP-C1005-050-0_05-MFG 1155.000      528.248       90       "Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0402"                               
