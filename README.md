@@ -9,8 +9,10 @@ ers on the market lack this protection, making them vulnerable to damage if acci
 
 [FTDI_FT232R_USB_To_UART.PDF](https://github.com/user-attachments/files/19454335/FTDI_FT232R_USB_To_UART.PDF)
 
-![Screenshot 2025-03-25 211752](https://github.com/user-attachments/assets/25e393b5-b8c3-47fb-b2b6-9ed40d48fe24)
-![Screenshot 2025-03-25 211752](https://github.com/user-attachments/assets/81a4b22e-c092-4c8f-a2e0-22545d6f38ae)
+
+
+![Screenshot 2025-03-08 013734](https://github.com/user-attachments/assets/d9dd5ee8-7f1d-43d7-b703-27099ca3729c)
+![Screenshot 2025-03-25 220221](https://github.com/user-attachments/assets/f9e03daf-0fd4-4a4b-9f47-e6a526859316)
 ![Screenshot 2025-03-25 004459](https://github.com/user-attachments/assets/4a7b017b-212f-4143-a739-85a72aac327e)
 ![Screenshot 2025-03-25 211937](https://github.com/user-attachments/assets/9fc67b2d-e6d6-45eb-b819-c5570e61ae1c)
 ![Screenshot 2025-03-25 211952](https://github.com/user-attachments/assets/f15355fd-c684-4304-8199-28b406843fad)
