@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=NetD2_2 New Net Name=DATA_N
+Change Net Name : Old Net Name=NetD3_2 New Net Name=DATA_P
+Change Net Name : Old Net Name=NetD4_2 New Net Name=TX
+Change Net Name : Old Net Name=NetD5_2 New Net Name=RX
+Added Differential Pair: Name=DATA
+Added Member To Class: ClassName=FTDI_FT232R_USB_To_UART Member=Component C3 C1005X7R1C104K050BC
+Added Member To Class: ClassName=FTDI_FT232R_USB_To_UART Member=Component C5 C1005X7R1C104K050BC
+Added Member To Class: ClassName=FTDI_FT232R_USB_To_UART Member=Component D2 UCLAMP3601P.TNT
+Added Member To Class: ClassName=FTDI_FT232R_USB_To_UART Member=Component D3 UCLAMP3601P.TNT
+Added Member To Class: ClassName=FTDI_FT232R_USB_To_UART Member=Component P2 Header 3
