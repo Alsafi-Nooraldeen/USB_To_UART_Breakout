@@ -1,4 +1,4 @@
-[FTDI_FT232R_USB_To_UART.PDF](https://github.com/user-attachments/files/19454326/FTDI_FT232R_USB_To_UART.PDF)#: CH340, FT232, and CP2102 Breakout boards:
+#: CH340, FT232, and CP2102 Breakout boards:
 
 All of these are USB-to-UART converters, but with an enhanced feature: built-in ESD protection. Most convert
 ers on the market lack this protection, making them vulnerable to damage if accidentally touched with charged static hands. With ESD protection, My redesign for devices offered greater durability and reliability.
