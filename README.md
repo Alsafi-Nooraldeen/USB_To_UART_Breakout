@@ -4,10 +4,10 @@ All of these are USB-to-UART converters, but with an enhanced feature: built-in 
 ers on the market lack this protection, making them vulnerable to damage if accidentally touched with charged static hands. With ESD protection, My redesign for devices offered greater durability and reliability.
 
 [CH340_USB_To_UART.PDF](https://github.com/user-attachments/files/19454296/CH340_USB_To_UART.PDF)
+
 [CP2102_USB_To_UART.PDF](https://github.com/user-attachments/files/19452955/Job_File_CP2102_USB_To_UART.PDF)
+
 [FTDI_FT232R_USB_To_UART.PDF](https://github.com/user-attachments/files/19454335/FTDI_FT232R_USB_To_UART.PDF)
-
-
 
 ![Screenshot 2025-03-25 211752](https://github.com/user-attachments/assets/25e393b5-b8c3-47fb-b2b6-9ed40d48fe24)
 ![Screenshot 2025-03-25 211752](https://github.com/user-attachments/assets/81a4b22e-c092-4c8f-a2e0-22545d6f38ae)
